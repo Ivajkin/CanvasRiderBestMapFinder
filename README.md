@@ -1,4 +1,4 @@
-CanvasRiderBestMapFinder
+Canvas Rider Tracks Finder - find best track
 ========================
 
 The utility to search for **best** http://canvasrider.com track by rating: likes/dislikes - VS 2010 C#
